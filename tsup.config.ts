@@ -7,5 +7,5 @@ export default defineConfig({
   sourcemap: true,
   dts: true,
   format: ['esm'],
-  injectStyle: false,
+  injectStyle: true,
 });
